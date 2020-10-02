@@ -22,5 +22,3 @@ Examples:
 
 ## Swap function
 Function swap values in a vector by k places.
-## N_chain function
-User can input a natural number and the function will create list from 0 to n.
